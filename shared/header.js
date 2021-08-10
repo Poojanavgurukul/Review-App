@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Button, Text, StyleSheet, Image } from "react-native";
+import { View, Text, StyleSheet, Image } from "react-native";
 import MaterialIcons from "react-native-vector-icons/MaterialIcons";
 export default function Header({ navigation, title }) {
   const open = () => {
